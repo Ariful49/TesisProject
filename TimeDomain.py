@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug  3 15:19:26 2018
-
-@author: USER
-"""
-
 
 import numpy as np
 import statistics
