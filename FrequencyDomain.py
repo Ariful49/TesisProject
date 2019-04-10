@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Aug  3 15:18:47 2018
-
-@author: USER
-"""
 from scipy.fftpack import fft
 import numpy as np
 '''
